@@ -1,6 +1,6 @@
 ## Introduction
 
-Make a beautiful shining LED flower.
+Make a beautiful shining LED flower. Make more than one for a sparkling bouquet.
 
 ### What you will make
 
@@ -22,12 +22,22 @@ title: What you will need
 ---
 ### Hardware
 
-+ Describe hardware here
++ A Raspberry Pi 4 and associated peripherals
++ 1× LED
++ 1× resistor (any resistor above 100 ohms will be fine)
++ 4× female-to-female jumper leads
 
 ### Software
 
 + Python 3
 + This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+
+### Additional craft materials
+
++ Colour paper (a variety of colours and green for the stem)
++ Pencil
++ Glue or tape
++ Scissors
 
 ### Downloads
 
