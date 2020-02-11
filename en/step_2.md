@@ -1,3 +1,3 @@
-## Step title
+## Set up your LEDs
 
 + Step content...
