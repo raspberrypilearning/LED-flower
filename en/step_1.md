@@ -26,6 +26,7 @@ title: What you will need
 + 1× LED
 + 1× resistor (any resistor above 100 ohms will be fine)
 + 4× female-to-female jumper leads
++ Copper tape (or tape and aluminum foil)
 
 ### Software
 
