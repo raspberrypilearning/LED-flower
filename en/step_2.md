@@ -12,10 +12,12 @@ DIAGRAM
 
 Make sure your Raspberry Pi is switched off for this part.
 
-Look at the pins that are sticing out of the top right of your Raspberry Pi.
+Look at the pins that are sticking out of the top right of your Raspberry Pi.
 
 + Take the jumper wire that is connected to the resistor and plug it onto the pin lavelled **3V3** on the diagram.
 
 + Take the jumper wire that is connected to the short leg of the LED ad plug it into the pin labelled **GND** on the diagram
 
 DIAGRAM
+
+(CREATE A STEM FOR YOUR FLOWER?)
