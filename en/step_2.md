@@ -22,7 +22,7 @@ Look at the pins that are sticking out of the top right of your Raspberry Pi.
 
 ## Make your flower
 
-Make your flower out of paper. You can use the guide here for a simple flower. Be creative with your own designs and colours!
+Make your flower out of paper. You can use the guide here for a simple flower. Make two and stack them on top of each other. Be creative with your own designs and colours!
 
 + Fold your paper in half and in half again (this works best with a square peice of paper)
 
