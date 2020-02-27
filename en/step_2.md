@@ -8,7 +8,7 @@
 
 + Take another jumper wire and slot one end onto the short leg of the LED
 
-DIAGRAM
+![LED wired](images/led-wired.png)
 
 ***Make sure your Raspberry Pi is switched off for this part.***
 
@@ -18,7 +18,7 @@ Look at the pins that are sticking out of the top right of your Raspberry Pi.
 
 + Take the jumper wire that is connected to the short leg of the LED ad plug it into the pin labelled **GND** on the diagram
 
-DIAGRAM
+![GPIO](images/gpio.png)
 
 ## Make your flower
 
