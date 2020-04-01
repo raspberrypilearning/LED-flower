@@ -52,11 +52,15 @@ Make your flower out of paper. You can use the guide here for a simple flower. M
 
 + Fold your paper in half and in half again (this works best with a square peice of paper)
 
+IMAGE
+
 --- /task ---
 
 --- task ---
 
 + Fold your paper into a triangle shape
+
+IMAGE
 
 --- /task ---
 
@@ -64,11 +68,15 @@ Make your flower out of paper. You can use the guide here for a simple flower. M
 
 + Cut a curve in your triangle
 
+IMAGE
+
 --- /task ---
 
 --- task ---
 
 + Poke the LED through the middle of your flower
+
+IMAGE?
 
 --- /task ---
 
@@ -92,8 +100,12 @@ CODE HERE
 
 ### Take your flower home
 
-using copper tape and coin battery
+--- task ---
 
-simple switch (a petal in between LED leg and battery)
++ Stick a battery to the flower using copper tape and put the long leg of your LED to the tape as well.
+
+--- /task ---
+
++ Turn the flower off and on by detaching the LED from the tape 
 
 --- save ---
