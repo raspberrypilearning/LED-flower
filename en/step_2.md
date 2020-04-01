@@ -98,7 +98,7 @@ CODE HERE
 
 --- /task ---
 
-### Take your flower home
+## Take your flower home
 
 --- task ---
 
