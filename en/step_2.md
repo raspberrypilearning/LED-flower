@@ -104,6 +104,8 @@ CODE HERE
 
 + Stick a battery to the flower using copper tape and put the long leg of your LED to the tape as well.
 
+IMAGE
+
 --- /task ---
 
 + Turn the flower off and on by detaching the LED from the tape 
