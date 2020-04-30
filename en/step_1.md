@@ -1,10 +1,10 @@
 ## Introduction
 
-Make a beautiful shining LED flower. Make more than one for a sparkling bouquet.
+Make a beautiful shining LED flower. Make more than one for a sparkling bouquet!
 
 ### What you will make
 
-![Complete project](images/showcase_static.png)
+![LED flower](images/flower-finished.png)
 
 --- collapse ---
 ---
@@ -20,19 +20,18 @@ title: What you will need
 
 ### Software
 
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
++ None
 
 ### Additional craft materials
 
-+ Colour paper (a variety of colours and green for the stem)
++ Coloured paper (a variety of colours and green for the stem)
 + Pencil
 + Glue or tape
 + Scissors
 
 ### Downloads
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
++ None
 
 --- /collapse ---
 
@@ -41,8 +40,7 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
++ You will learn what an LED is, and how to add an LED to a circuit.
 
 --- /collapse ---
 
@@ -51,8 +49,6 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/led-flower/print){:target="_blank"}.
 
 --- /collapse ---
